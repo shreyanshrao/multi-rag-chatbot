@@ -61,8 +61,7 @@ Frameworks: Custom Python pipeline
 
 ▶️ Getting Started
 1️⃣ Clone the repository
-git clone https://github.com/your-username/multi-pdf-chatbot.git
-cd multi-pdf-chatbot
+git clone 
 
 2️⃣ Install dependencies
 pip install -r requirements.txt
@@ -75,7 +74,7 @@ python app.py
 
 📈 Performance Highlights
 
-Supports 20+ PDFs per session
+
 
 Handles 10+ follow-up queries with contextual memory
 
